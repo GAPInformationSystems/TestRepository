@@ -6,7 +6,7 @@ let myObject = {
   name: "Test",
   number: 42
 };
-
+//test comment
 // Add the object to the array
 myArray.push(myObject);
 

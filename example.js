@@ -19,3 +19,5 @@ myArray.push(myObject);
 
 // See what the array looks like
 console.log(myArray);
+
+// This is a test comment
